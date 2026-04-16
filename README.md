@@ -1,5 +1,9 @@
 # llm-providers
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/arlencho/llm-providers.svg)](https://pkg.go.dev/github.com/arlencho/llm-providers)
+[![Go Report Card](https://goreportcard.com/badge/github.com/arlencho/llm-providers)](https://goreportcard.com/report/github.com/arlencho/llm-providers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A small, provider-agnostic Go client for large language models.
 
 One interface, three providers:
